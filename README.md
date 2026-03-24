@@ -64,7 +64,7 @@ Possui interesse pela área de tecnologia e desenvolvimento, com foco no aprimor
 <img
     align="left"
     alt="GitHub Stats"
-    height="200" 
+    height="300" 
     width="350"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=DiasZ3&show_icons=true&theme=highcontrast&include_all_commit=true&locale=pt-br"
@@ -72,7 +72,7 @@ Possui interesse pela área de tecnologia e desenvolvimento, com foco no aprimor
 <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="350"
     width="350"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasZ3&layout=compact&theme=highcontrast&locale=pt-br"
